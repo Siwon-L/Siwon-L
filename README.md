@@ -1,10 +1,14 @@
-### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=saafaaari&amp;&amp;style=flat-square" align="right">
-<div align="center">
 
+
+<img src="https://komarev.com/ghpvc/?username=saafaaari&amp;&amp;style=flat-square" align="right">
+
+<div align="center">
+  
 <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=saafaaari&show_icons=true&theme=github_dark&hide="/>
 
-<div align="left">
+  <div align="left">
+    
+## Hi there 👋
 Hello, I'm  🧐<br>
 I'm iOS Starter Developer<br>
 Thank you for visiting my github<br>
